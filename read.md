@@ -1,4 +1,4 @@
-Demo
-# this is my first file in the github
+#Demo
+this is my first file in the github
 
-this exlains about what i have done in the project
+this explains about what i have done in the project
